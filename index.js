@@ -1,5 +1,5 @@
-import _ from "lodash"
+// import _ from "lodash"
+import fun from './src/index.js'
 
-console.log('Hello World!')
-console.log(Math.round(5.22))
-console.log(_.last(['one', 'two']));
+
+fun()
